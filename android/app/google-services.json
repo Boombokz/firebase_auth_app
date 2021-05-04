@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "254648754262",
+    "project_id": "testappwithauth",
+    "storage_bucket": "testappwithauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254648754262:android:0f65ce171c7f326ed95bf7",
+        "android_client_info": {
+          "package_name": "com.madi.auth_app_with_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254648754262-o2jpeb7m4qf2lr3tem23dicg7qerucl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1FyN27aZrtSgC15fJSvnsAFp_uy3CJvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254648754262-o2jpeb7m4qf2lr3tem23dicg7qerucl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
